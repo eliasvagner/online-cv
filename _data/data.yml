@@ -70,6 +70,9 @@ skills:
 
       - name: jQuery
         level: 95%
+        
+      - name: SEO
+        level: 85%
 
       - name: Angular
         level: 70%
@@ -83,8 +86,7 @@ skills:
       - name: SQL
         level: 90%
 
-      - name: SEO
-        level: 85%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
